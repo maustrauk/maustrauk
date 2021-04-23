@@ -3,9 +3,9 @@
 Hi, I'm Iaroslav!
 I'm a full stack web developer who is passionate about making tools to limit repetitive problem solving and facilitate effective collaboration.
 
-🔭 I’m currently working on website migration from Kartra to Elementor WordPress at SuperPurposes company.
+🔭 I’m currently working on website migration from Kartra to Elementor WordPress at Super Purposes company.
 
-🌱 I’m currently learning at LambdaSchool.
+🌱 I’m currently learning at Lambda School.
 
 💬 Ask me about: HTML, CSS, JS, Java, Python, SQL, React.js, Node.js, JavaSpring, WordPress, Elementor, Kartra, Slack, Trello, Figma, Whimsical, Heroku, Netlify.
 
