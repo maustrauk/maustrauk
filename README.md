@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello 👋
 
+Hi, I'm Iaroslav! I'm a full stack web developer who is passionate about making tools to limit repetitive problem solving and facilitate effective collaboration.
+
+Find me around:
+* Sharing updates on [LinkedIn](https://www.linkedin.com/in/iaroslav-mokroguz-b1448b132/)
 <!--
 **maustrauk/maustrauk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
