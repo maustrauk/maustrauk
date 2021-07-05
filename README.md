@@ -1,7 +1,7 @@
 ### Hello 👋
 
 Hi, I'm Iaroslav!
-I'm a full stack web developer who is passionate about making tools to limit repetitive problem solving and facilitate effective collaboration.
+I'm a full-stack web developer who is passionate about making tools to limit repetitive problem solving and facilitate effective collaboration.
 
 🔭 I’m currently working on website migration from Kartra to Elementor WordPress at Super Purposes company.
 
