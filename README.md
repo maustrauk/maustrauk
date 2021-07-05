@@ -11,7 +11,7 @@ I'm a full-stack web developer who is passionate about making tools to limit rep
 
 👯 Find me around:
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/iaroslav-mokroguz-b1448b132/)
-* Posting some stuff at [FaceBook](https://www.facebook.com/iaroslav.mokroguz/)
+* Posting some stuff at [Medium](https://maustrauk.medium.com/)
 
 📫 How to reach me: maustrauk@gmail.com
 <!--
